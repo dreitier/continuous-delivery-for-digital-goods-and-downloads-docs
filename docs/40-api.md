@@ -4,7 +4,7 @@ The plug-in's API endpoint is published at `/wp-json/continuous-delivery/v1`.
 ## Authentication and Authorization
 The plug-in uses WordPress' natives method for authentication and authorization.
 Read
-- [Create a deployment user](continuous-integration/create-deployment-user)
+- [Create a deployment user](/configuration/continuous-integration/create-deployment-user)
 - [http://v2.wp-api.org/guide/authentication/](http://v2.wp-api.org/guide/authentication/)
 
 ## Methods
